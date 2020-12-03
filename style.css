@@ -45,3 +45,7 @@ p {
 #name {
     font-family: 'East Sea Dokdo', cursive;
 }
+
+links:hover{
+    background-color: azure;
+}
